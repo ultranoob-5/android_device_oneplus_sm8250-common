@@ -1,9 +1,7 @@
 [
   {
-    "remote": "lineage",
-    "repository": "LineageOS/android_kernel_oneplus_sm8250",
-    "target_path": "kernel/oneplus/sm8250",
-    "revision": "lineage-18.1"
+    "repository": "CarbonROM/android_kernel_oneplus_sm8250",
+    "target_path": "kernel/oneplus/sm8250"
   },
   {
     "remote": "lineage",
